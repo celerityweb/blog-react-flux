@@ -5,8 +5,8 @@ This repo is a simple application that searchs github and returns a user and the
 
 ### Getting Started
 <code>
-git clone https://github.com/celerityweb/redpop.git
-cd redpop
+git clone https://github.com/celerityweb/blog-react-flux.git
+cd blog-react-flux
 npm install
 </code>
 
